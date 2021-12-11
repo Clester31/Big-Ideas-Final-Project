@@ -7,8 +7,16 @@ Johnny Kretzing: JJK122@pitt.edu
 Links to datasets used:
 
 City of Pittsburgh Traffic Count: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167
+
+This Dataset containts information regarding average daily traffic counts for cars and bicycles across Pittsburgh's neighborhoods. For the purposes of our research, we only looked at average daily car traffic counts. Other information, such as the start and end dates of when traffic was recorded, the device used to record traffic, as well as data on car speeds are also present within this dataset.
+
 City of Pittsburgh Speed Humps: https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps/resource/37b2ac41-ae8e-4de1-8405-157e05dc3640
+
+This dataset contains information regarding the number of speedhumps present within each Pittsburgh neighborhood. The dataset also contains information on the material the speed hump is made out of as well as the street it is located on.
+
 Allegheny County Median Age at Death: https://data.wprdc.org/dataset/median-age-death/resource/c2e1500a-a12a-4e91-be94-76c6a892b7e2
+
+This dataset contains information regarding the median ages of death within Pittsburgh neighborhoods. This dataset includes the median death ages for both white and black individuals, as well as the average median age of death between both races.
 
 Abstract:
 
